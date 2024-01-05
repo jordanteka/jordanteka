@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @jordanteka
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me just react to my respiratories
 
